@@ -5,4 +5,5 @@ while a==b:
         a=a-b
     else:
         b=b-a
-print("ebob=", b)
+print("ebob=", b) 
+#isdemir niyese tutmadim :(
