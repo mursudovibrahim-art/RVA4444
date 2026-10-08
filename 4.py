@@ -6,4 +6,4 @@ while a==b:
     else:
         b=b-a
 print("ebob=", b) 
-#isdemir niyese tutmadim :(
+#isdemir niyese tutmadim :((
